@@ -1,0 +1,20 @@
+{
+  "name": "aprendiendo-javascript",
+  "version": "1.0.0",
+  "description": "Repositorio de práctica para aprender conceptos de javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jesus9314/aprendiendo-javascript.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jesus9314/aprendiendo-javascript/issues"
+  },
+  "homepage": "https://github.com/jesus9314/aprendiendo-javascript#readme"
+}
